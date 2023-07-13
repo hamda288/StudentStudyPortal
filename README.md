@@ -48,7 +48,6 @@ To run the Study Portal locally, follow these steps:
    python3 -m venv venv
    source venv/bin/activate
    ```
-   ```
 4. Set up the database:
    ```
    python manage.py migrate
