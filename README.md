@@ -2,6 +2,35 @@
 
 This Study Portal is a web application built with Django, designed to help students manage their study tasks effectively. It provides features such as a todo list, homework management, YouTube integration, note-taking, conversion tools, and access to Wikipedia.
 
+<h2>Home Page</h2>
+<img width="919" alt="HomePage" src="https://github.com/hamda288/StudentStudyPortal/assets/96077150/8258e8ad-873f-4000-9a6a-d604748ff424">
+
+<h2>Profile</h2>
+<img width="918" alt="profile" src="https://github.com/hamda288/StudentStudyPortal/assets/96077150/58b25b5a-6778-42ed-9913-60c58b531b8b">
+
+<h2>Notes</h2>
+<img width="917" alt="Notes" src="https://github.com/hamda288/StudentStudyPortal/assets/96077150/61151420-b96d-4986-a960-1eb064c37d60">
+
+<h2>Homework</h2>
+
+<img width="915" alt="Homework" src="https://github.com/hamda288/StudentStudyPortal/assets/96077150/f196f9a0-82e5-4dcc-b266-d8be01419085">
+
+<h2>Todo</h2>
+<img width="919" alt="Todo" src="https://github.com/hamda288/StudentStudyPortal/assets/96077150/7fe3362b-5507-4cd0-99b9-6d580d429089">
+
+<h2>Youtube</h2>
+<img width="919" alt="youtube" src="https://github.com/hamda288/StudentStudyPortal/assets/96077150/cae5eca5-8206-4f51-9de2-dc0366db8222">
+
+<h2>Books</h2>
+<img width="916" alt="book1" src="https://github.com/hamda288/StudentStudyPortal/assets/96077150/054f0fc0-e1e8-4f9e-93c5-f2ab2870b92c">
+
+<h2>Wiki</h2>
+<img width="916" alt="wiki" src="https://github.com/hamda288/StudentStudyPortal/assets/96077150/c2c5664d-c30b-4b25-89cf-2e70759278c3">
+
+<h2>Conversion</h2>
+<img width="918" alt="Conversion" src="https://github.com/hamda288/StudentStudyPortal/assets/96077150/37e8a504-d06e-4b48-8b88-0fe3dbee7ad9">
+
+
 ## Getting Started
 
 To run the Study Portal locally, follow these steps:
